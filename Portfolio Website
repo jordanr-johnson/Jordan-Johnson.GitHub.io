@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jordan Johnson - Data Analyst Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+        nav {
+            background: #444;
+            padding: 1em;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 1em;
+            text-decoration: none;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+        .project {
+            background: #fff;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background: #333;
+            color: #fff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jordan Johnson</h1>
+        <p>Data Analyst</p>
+    </header>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#projects">Projects</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container">
+        <section id="home">
+            <h2>Welcome to My Portfolio</h2>
+            <p>Hi, I'm Jordan Johnson. I’m passionate about working with data — it's the one universal truth we can all rely on. I love uncovering insights and building tools that make data more accessible and impactful. As data continues to shape our world, I’m excited to be part of the movement driving informed decisions and meaningful change.</p>
+        </section>
+        <section id="projects">
+            <h2>Projects</h2>
+            <!-- Projects will go here -->
+        </section>
+        <section id="about">
+            <h2>About Me</h2>
+            <p><p>I have a background in operations and project coordination, with experience transforming complex data into actionable insights. My toolkit includes Python, Excel, SQL, Power BI, and Tableau, which I use to clean, analyze, and visualize data to answer those tough business questions. I'm passionate about using data to solve real-world problems and continuously growing in the field of analytics.</p>
+</p>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:JordanrJohnson95@gmail.com">JordanrJohnson95@gmail.com</a></p>
+            <p>LinkedIn: <a href="https://linkedin.com/in/Jordan-Johnson2195">My LinkedIn</a></p>
+            <p>GitHub: <a href="https://github.com/Jordan-Johnson">My GitHub</a></p>
+        </section>
+    </div>
+    <footer>
+
+
+git add index.html
+git commit -m "Add portfolio homepage"
+git push origin main
+        <p>&copy; 2025 Jordan Johnson. All rights reserved.</p>
+    </footer>
+</body>
+</html>
