@@ -83,12 +83,12 @@
         </section>
     </div>
     <footer>
+        <p>&copy; 2025 Jordan Johnson. All rights reserved.</p>
+    </footer>
+</body>
+</html>
 
 
 git add index.html
 git commit -m "Add portfolio homepage"
 git push origin main
-        <p>&copy; 2025 Jordan Johnson. All rights reserved.</p>
-    </footer>
-</body>
-</html>
